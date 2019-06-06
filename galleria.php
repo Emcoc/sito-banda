@@ -22,7 +22,6 @@
             print_r($result->fetch_assoc());
         ?>
     </div>
-    <div></div>
     <footer>
         <?php
             include "./php/footer.php";

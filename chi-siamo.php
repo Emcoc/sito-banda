@@ -73,6 +73,9 @@
 
         </div>
     </div>
+    <div id="dove-siamo" class="container-fluid">
+        ciao
+    </div>
     <footer>
         <?php
             include "./php/footer.php";

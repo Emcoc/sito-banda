@@ -17,9 +17,9 @@
     </header>
     <div id="gallery">
         <?php
-            include "./php/config.php";
+            /*include "./php/config.php";
             $result = $conn->query("SELECT count(*) FROM evento;");
-            print_r($result->fetch_assoc());
+            print_r($result->fetch_assoc());*/
         ?>
     </div>
     <footer>

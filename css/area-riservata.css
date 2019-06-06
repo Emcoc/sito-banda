@@ -1,0 +1,9 @@
+#login {
+    width: 600px;
+    margin: 15px auto;
+    padding: 10px;
+}
+
+button {
+    float: right;
+}

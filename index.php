@@ -15,7 +15,6 @@
             include "./php/header.php";
         ?>
     </header>
-    <div></div>
     <footer>
         <?php
             include "./php/footer.php";
